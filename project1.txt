@@ -1,3 +1,4 @@
 Name: Arun
 Program: Computer Programming
 Goal: I want to learn how to manage projects using Git and GitHub.
+I also want to learn how to collaborate with others using GitHub.
